@@ -1,0 +1,51 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<index version = "1" name = "GDM Scripts" commit = "07635d3e2d9b13b4f22ca77a8e8b313a05d04f94">
+	<category name = "Ear Candy Scripts">
+
+		<reapack name = "GDM - Generate Reverse Reverb from Selected Media or MIDI Item.lua" type = "script" desc = "Reverse Reverb">
+			<version name = "1.0" author = "GDM" time = "2022-12-03T15:35:00Z">
+				<source main = "main">
+                    https://github.com/GDM-Music/GDM-Scripts/raw/07635d3e2d9b13b4f22ca77a8e8b313a05d04f94/Ear%20Candy%20Scripts/GDM%20-%20Generate%20Reverse%20Reverb%20from%20Selected%20Media%20or%20MIDI%20Item.lua			
+                </source>
+			</version>
+		</reapack>
+
+        <reapack name = "GDM - Decrement Volume of selected items.lua" type = "script" desc = "Decrement Volume of selected items">
+			<version name = "1.0" author = "GDM" time = "2022-12-03T15:35:00Z">
+				<source main = "main">
+                    https://github.com/GDM-Music/GDM-Scripts/raw/07635d3e2d9b13b4f22ca77a8e8b313a05d04f94/Ear%20Candy%20Scripts/GDM%20-%20Decrement%20Volume%20of%20selected%20items.lua                
+                </source>
+			</version>
+		</reapack>
+
+        <reapack name = "GDM - InCrement Volume of selected items.lua" type = "script" desc = "InCrement Volume of selected items">
+			<version name = "1.0" author = "GDM" time = "2022-12-03T15:35:00Z">
+				<source main = "main">
+                    https://github.com/GDM-Music/GDM-Scripts/raw/07635d3e2d9b13b4f22ca77a8e8b313a05d04f94/Ear%20Candy%20Scripts/GDM%20-%20InCecrement%20Volume%20of%20selected%20items.lua
+                </source>
+			</version>
+		</reapack>
+
+	</category>
+    
+    <category name = "Midi Ear Candy">
+
+        <reapack name = "GDM - Decrement Velocities of selected notes.lua" type = "script" desc = "Decrement Velocities of selected Notes">
+			<version name = "1.0" author = "GDM" time = "2022-12-03T15:35:00Z">
+				<source main = "main">
+                    https://github.com/GDM-Music/GDM-Scripts/raw/07635d3e2d9b13b4f22ca77a8e8b313a05d04f94/MIDI%20Ear%20Candy/GDM_Midi%20Editor%20-%20Decrement%20Velocites%20of%20selected%20notes.lua                
+                </source>
+			</version>
+		</reapack>
+
+        <reapack name = "GDM_Midi Editor - InCrement Velocities of selected Notes.lua" type = "script" desc = "InCrement Velocities of selected Notes">
+			<version name = "1.0" author = "GDM" time = "2022-12-03T15:35:00Z">
+				<source main = "main">
+                    https://github.com/GDM-Music/GDM-Scripts/raw/07635d3e2d9b13b4f22ca77a8e8b313a05d04f94/MIDI%20Ear%20Candy/GDM_Midi%20Editor%20-%20InCrement%20Velocites%20of%20selected%20notes.lua
+                </source>
+			</version>
+		</reapack>
+
+	</category>
+
+</index>
