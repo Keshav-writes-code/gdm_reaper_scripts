@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="GDM Scripts" commit="ffd1142ee5c559f0e7ff70584ba4390bb6f075a3">
+<index version="1" name="GDM Scripts" commit="4420e2df1a1f95879aa0d58fdc02d58fdf68327e">
+  <category name="Behaviour Add-ons">
+    <reapack name="GDM - Exclusive Solo when a track is soloed.lua" type="script" desc="exclusive solo when a track is soloed">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Exclusive Soloes the Track which was Soloed with a Mouse click on the TCP Solo Button\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=280805">Forum Thread</link>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T17:55:55Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/4420e2df1a1f95879aa0d58fdc02d58fdf68327e/Behaviour%20Add-ons/GDM%20-%20Exclusive%20Solo%20when%20a%20track%20is%20soloed.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
