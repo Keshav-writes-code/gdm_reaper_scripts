@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="GDM Scripts" commit="4420e2df1a1f95879aa0d58fdc02d58fdf68327e">
+<index version="1" name="GDM Scripts" commit="9f794b0fb04345f45c8b48008ba3f10c51c8f6a0">
   <category name="Behaviour Add-ons">
+    <reapack name="GDM - Adjust height of track under mouse.lua" type="script" desc="adjust height of track under mouse">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 use mouse wheel to adjust height of the mouse with this script. adjust the height of track under mouse\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/Behaviour%20Add-ons/GDM%20-%20Adjust%20height%20of%20track%20under%20mouse.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GDM - Auto Bypass for all Pugins.lua" type="script" desc="auto bypass for all plugins">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 makes all plugins in the project auto bypass\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/Behaviour%20Add-ons/GDM%20-%20Auto%20Bypass%20for%20all%20Pugins.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GDM - Collapse Folder track.lua" type="script" desc="collapse folder track">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 just collapses all folder track. work efficently by starting the search of the track under mouse\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/Behaviour%20Add-ons/GDM%20-%20Collapse%20Folder%20track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GDM - Create Layer Track.lua" type="script" desc="Create a Layer Track">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 creates a layer track for midi instruments\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/Behaviour%20Add-ons/GDM%20-%20Create%20Layer%20Track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GDM - Delete.lua" type="script" desc="Delete">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 handle delete action for anything all over the arrange view in reaper according to my prefrences offcourse cuz reaper delete is just wierd\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/Behaviour%20Add-ons/GDM%20-%20Delete.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GDM - Double Click item handler.lua" type="script" desc="double click item handler">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 a script for mouse modifiers. handle double click on any item with my prefferd behaviour\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/Behaviour%20Add-ons/GDM%20-%20Double%20Click%20item%20handler.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GDM - Enable Rev Delay.lua" type="script" desc="enable rev delay">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 make plugins online for reverb and delay send tracks that are usually set offline in my reaper project template\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/Behaviour%20Add-ons/GDM%20-%20Enable%20Rev%20Delay.lua</source>
+      </version>
+    </reapack>
     <reapack name="GDM - Exclusive Solo when a track is soloed.lua" type="script" desc="exclusive solo when a track is soloed">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
@@ -15,6 +120,88 @@
       </metadata>
       <version name="0.1" author="GDM" time="2025-06-18T17:55:55Z">
         <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/4420e2df1a1f95879aa0d58fdc02d58fdf68327e/Behaviour%20Add-ons/GDM%20-%20Exclusive%20Solo%20when%20a%20track%20is%20soloed.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Ear Candy Scripts">
+    <reapack name="GDM - Decrement Volume of selected items.lua" type="script" desc="Decrement volume of selected items">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 make the selected items volume go down like a fade out. Designed for drum hits that are very near to each other\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/Ear%20Candy%20Scripts/GDM%20-%20Decrement%20Volume%20of%20selected%20items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GDM - Generate Reverse Reverb from Selected Media or MIDI Item.lua" type="script" desc="generate reverse reverb from selected media or midi item">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Generate the Reverse Reverb. Just Select any item (audio or midi with instrument) and run this action. it will\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab auto genrate the reverse reverb\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab auto position it in front of the selected item\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab auto creates a track for all reverse reverbs throughout a reaper project for easy access\sa180\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/Ear%20Candy%20Scripts/GDM%20-%20Generate%20Reverse%20Reverb%20from%20Selected%20Media%20or%20MIDI%20Item.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GDM - InCrement Volume of selected items.lua" type="script" desc="Increment volume of selected items">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 make the selected items volume go loud from quite like a fade in. Designed for drum hits that are very near to each other\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/Ear%20Candy%20Scripts/GDM%20-%20InCrement%20Volume%20of%20selected%20items.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="MIDI Ear Candy">
+    <reapack name="GDM_Midi Editor - Decrement Velocites of selected notes.lua" type="script" desc="Decrement velocities of selected notes">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 make the selected notes velocites go down like a fade out. Designed for drum hits that are very near to each other\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/MIDI%20Ear%20Candy/GDM_Midi%20Editor%20-%20Decrement%20Velocites%20of%20selected%20notes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GDM_Midi Editor - InCrement Velocites of selected notes.lua" type="script" desc="Increment velocities of selected notes">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 make the selected notes velocites go loud from quite like a fade in. Designed for drum hits that are very near to each other\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Keshav-writes-code/gdm_reaper_scripts">GitHub repository</link>
+      </metadata>
+      <version name="0.1" author="GDM" time="2025-06-18T18:29:15Z">
+        <source main="main">https://github.com/Keshav-writes-code/gdm_reaper_scripts/raw/9f794b0fb04345f45c8b48008ba3f10c51c8f6a0/MIDI%20Ear%20Candy/GDM_Midi%20Editor%20-%20InCrement%20Velocites%20of%20selected%20notes.lua</source>
       </version>
     </reapack>
   </category>
