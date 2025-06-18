@@ -1,3 +1,17 @@
+--[[
+  @description generate reverse reverb from selected media or midi item
+  @about Generate the Reverse Reverb. Just Select any item (audio or midi with instrument) and run this action. it will
+    - auto genrate the reverse reverb
+    - auto position it in front of the selected item
+    - auto creates a track for all reverse reverbs throughout a reaper project for easy access
+  @version 0.1
+  @license MIT
+  @author GDM
+  @links
+    GitHub repository https://github.com/Keshav-writes-code/gdm_reaper_scripts
+]]
+
+
 -------------------------Some Variables---------------------------
 
 --[[---------------]]pluginName = "Crystalline (BABY Audio)"

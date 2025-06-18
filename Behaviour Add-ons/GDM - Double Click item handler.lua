@@ -1,3 +1,13 @@
+--[[
+  @description double click item handler
+  @about a script for mouse modifiers. handle double click on any item with my prefferd behaviour
+  @version 0.1
+  @license MIT
+  @author GDM
+  @links
+    GitHub repository https://github.com/Keshav-writes-code/gdm_reaper_scripts
+]]
+
 ------------------ Getters ---------------------
 
 function is_midi()
